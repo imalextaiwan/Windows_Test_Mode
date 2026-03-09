@@ -1,6 +1,3 @@
-[import tkinter as tk_from tkinter import messagebo.md](https://github.com/user-attachments/files/25840983/import.tkinter.as.tk_from.tkinter.import.messagebo.md)
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # import tkinter as tk
 
 from tkinter import messagebox
